@@ -2,7 +2,8 @@ def happy_new_year
   # your code here
 end
 
-# No need to modify this code! Use this to implement the fizzbuzz_printer method.
+# No need to modify this code! 
+#Use this to implement the fizzbuzz_printer method.
 def fizzbuzz(num)
   if num % 3 == 0 && num % 5 == 0
     "FizzBuzz"
@@ -15,6 +16,7 @@ def fizzbuzz(num)
   end
 end
 
+# ******************** #
 def fizzbuzz_printer
   # your code here
 end
